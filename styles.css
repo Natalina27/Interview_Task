@@ -1,0 +1,31 @@
+.header{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+.wrap{
+    height: 100vh;
+    background-color: darkgrey;
+}
+.wrap__calc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.close-calc-button{
+    border: lightslategray 2px solid;
+    border-radius: 15px;
+    background-color: darkgrey;
+    color: lightslategray;
+    height: 60px;
+    width: 200px;
+    font-size: 25px;
+
+}
+.calc{
+    height: 620px;
+    width: 1050px;
+    background-color: white;
+    border-radius: 85px;
+}
